@@ -1,6 +1,6 @@
-package generator.mapper;
+package com.dreaife.usercenter.mapper;
 
-import generator.domain.User;
+import com.dreaife.usercenter.model.domain.User;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
